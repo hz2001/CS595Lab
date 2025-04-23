@@ -1,0 +1,9 @@
+[package]
+name = "deposit_circuit"
+type = "bin"
+version = "0.1.0"
+authors = ["CS595 Student"]
+compiler_version = ">=0.18.0"
+
+[dependencies]
+noir_stdlib = { git = "https://github.com/noir-lang/noir", tag = "v0.18.0" } 
