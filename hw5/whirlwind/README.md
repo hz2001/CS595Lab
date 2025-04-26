@@ -59,7 +59,7 @@ This project implements a privacy-preserving asset transfer mechanism ("Whirlwin
    ```
 4. Generate proofs for testing:
    ```bash
-   nargo prove
+   nargo execute
    ```
 5. Generate Solidity verifiers:
    ```bash

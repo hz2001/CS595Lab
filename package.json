@@ -1,0 +1,27 @@
+{
+  "name": "cs595lab",
+  "version": "1.0.0",
+  "description": "Hands‑on labs and homework assignments that teach modern zero‑knowledge proof engineering with **Noir**, **Barretenberg**, and **Solidity**—runnable in a single click via GitHub Codespaces or locally with Docker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hz2001/CS595Lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hz2001/CS595Lab/issues"
+  },
+  "homepage": "https://github.com/hz2001/CS595Lab#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@aztec/bb.js": "^0.86.0"
+  }
+}
